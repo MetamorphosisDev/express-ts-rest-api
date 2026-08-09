@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "humao.rest-client",
+    "mikestead.dotenv",
+    "drizzle-team.drizzle-orm-snippets"
+  ]
+}
